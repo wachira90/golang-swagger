@@ -8,6 +8,10 @@ git clone -b main https://github.com/wachira90/golang-swagger
 
 cd golang-swagger\app
 
+go mod tidy
+
+go get github.com/wachira90/golang-swagger
+
 go run main.go
 ```
 
