@@ -4,10 +4,10 @@ import (
 	"log"
 
 	"github.com/gin-gonic/gin"
-	_ "github.com/shall-we-go/go-gin-swagger-example/docs"
-	"github.com/shall-we-go/go-gin-swagger-example/handler"
 	ginSwagger "github.com/swaggo/gin-swagger"
 	"github.com/swaggo/gin-swagger/swaggerFiles"
+	_ "github.com/wachira90/golang-swagger/docs"
+	"github.com/wachira90/golang-swagger/handler"
 )
 
 // @title Customers API

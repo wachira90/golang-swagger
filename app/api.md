@@ -1,3 +1,3 @@
 # Manageing Customer API
 
-![Sample Image](https://picsum.photos/600/400)
+![Sample Image](https://logos-world.net/wp-content/uploads/2023/06/Kubernetes-Logo.png)
